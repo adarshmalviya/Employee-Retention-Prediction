@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    background-image: url("../images/hr_wallpaper_webp.webp");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time roman;        
+}
+h1{
+    font-size: 40px;
+    color: black;
+    margin-top: 250px;
+}
+p{
+    font-size: 17px;
+    color:black;
+}
+h3{
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+    
+}
+.predi {
+    background: transparent;
+    background: rgba(0, 0, 0, 0.774);
+    margin: auto;
+    text-align: center;
+    font-family: new time roman;
+    color: white;
+    font-size: xx-large;
+    width: 40%;
+    box-shadow: -1px 1px 60px 10px black;
+    margin-top: 10px;
+  }
+.glyphicon-pencil{
+    font-size: 35px;
+    color: white;
+    float: right;
+    margin-top: 20px;
+}
+.col-md-5{
+    margin-top: 60px;
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.774);
+
+}
+.label{
+    font-weight: normal;
+    margin-top: 5px;
+    color: white;
+    font-size: 17px;
+}
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid white;
+    font-size: 17px;
+    margin-top: 5px;
+    height: 35px;
+    color: white;
+}
+
+input[type="checkbox"]{
+    margin-top: 15px;
+    width: 15px;
+    height: 15px;
+
+}
+small{
+    font-size: 18px;
+    color: white;
+}
+
+
+option{
+    color: gray;
+}
+.btn-info{
+    margin-top: 20px;
+    font-size: 18px;
+    width: 120px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+.btn-warning{
+    margin-top: 20px;
+    font-size: 18px;
+    width: 120px;
+    margin-bottom: 20px;
+}
+footer{
+    background: transparent;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.774);
+}
+
+.design_name{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: new time roman;
+}
+
+.footerlogo{
+    text-align: center;
+}
+.icon{
+    width: 60px;
+    height: 60px;
+}
