@@ -4,3 +4,4 @@ gunicorn
 flask
 sklearn
 xgboost
+pickle
