@@ -1,0 +1,2 @@
+# Employee-Retention-Behavior
+Employee retention is one of the major issues confronting business today.  To stop Employee to leave the Company is the major Challenge and in order to do so knowing his behavior can give a plus point to the Company.  This Model is designed for the same purpose. It predicts weather the Employee is going to leave the Company or he is going to continue to work in the Company by using Machine Learning Algorithms. The Model has came up with the Accuracy of 99 %.
