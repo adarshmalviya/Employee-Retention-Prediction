@@ -3,4 +3,5 @@ Employee retention is one of the major issues confronting business today.  To st
 
 Website Link : https://retentionprediction.herokuapp.com
 
-![website_ss](https://user-images.githubusercontent.com/56603301/133650131-dfffb754-6844-4892-bcb8-ed74e86294f6.png)
+![website_ss](https://user-images.githubusercontent.com/56603301/133650730-b9f8cbdc-e69e-4d28-bfdc-4373b9ff4d48.jpg)
+
