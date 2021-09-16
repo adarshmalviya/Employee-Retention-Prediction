@@ -1,0 +1,9 @@
+.col-md-5{
+    margin-top: 2px;
+    /* margin-bottom: 10px; */
+    box-shadow: -1px 1px 60px 10px rgb(253, 14, 14);
+    background: rgba(0, 0, 0, 0.774);
+}
+.btn-warning{
+    margin-left: 80px;
+}
